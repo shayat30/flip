@@ -1,0 +1,105 @@
+.background{
+    background-color: rgb(0, 140, 255);
+    background-image: url(../flipkart/login_img_c4a81e.png);
+    width: 256px;
+    height: 596px;
+    background-repeat: no-repeat;
+    background-position: 50% 80%;
+}
+.head{
+    height: 600px;
+    width: 700px;
+    border: 2px solid rgb(224, 223, 223);
+    margin: auto;
+    margin-top: 60px;
+    border-radius: 5px;
+}
+.email{
+    margin-top: 50px;
+
+}
+.passward{
+   margin-top: 25px;
+   position: relative;
+}
+input.form-control{
+    border-bottom:  1px solid #d4d4d4;
+    width: 100%;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    border-radius: 0px !important;
+}
+.form-control:focus {
+    color: #212529;
+    background-color: #fff;
+    border-color: none;
+    outline: 0;
+    box-shadow: none;
+}
+.firstpage{
+    color: white;
+    padding: 40px 30px;
+    font-size: 18px;
+}
+.para-1{
+    margin-top: 46px;
+    font-size: 13px;
+    
+}
+.login{
+    margin-top: 25px;
+    height: 50%;
+    background-color: orange!important;
+    
+}
+.para-1 a{
+    text-decoration: none;
+}
+.or{
+    margin-top: 25px;
+    color: gray;
+}
+.login{
+    margin-top: 30px;
+}
+.last{
+    margin-top: 85px;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.last a{
+    text-decoration: none;
+}
+.pad{
+    padding: 0px !important;
+}
+.request{
+    box-shadow: 2px 2px 2px 2px rgb(187, 182, 182);
+}
+.forget{
+    text-decoration: none;
+}
+.btn-info {
+    color: rgb(255, 255, 255);
+    background-color: #f0680d;
+    border-color: #f0860d;
+    height: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btn-light {
+    color: #2874f0;
+    background-color: #f8f9fa;
+    border-color: #f8f9fa;
+    height: 50px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.forget-1 {
+    top: 8px;
+    /* margin-left: 50px; */
+    position: absolute;
+    left: 310px;
+}
+.forget-1{
+
+}
